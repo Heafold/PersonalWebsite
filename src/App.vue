@@ -15,6 +15,10 @@ export default {
 
 <style>
 #app {
- 
+     
+}
+html{
+  background-color: #0a192f;
+  padding: 50px;
 }
 </style>
