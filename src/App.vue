@@ -1,14 +1,23 @@
 <template>
-  <XHeader></XHeader>
+
+  <div>
+    <XHeader></XHeader>
+
+    <XHome></XHome>
+  </div>
+
+
 </template>
 
 <script>
 import XHeader from './components/XHeader.vue'
+import XHome from './components/XHome.vue'
 
 export default {
   name: 'App',
   components: {
     XHeader,
+    XHome,
   }
 }
 </script>
