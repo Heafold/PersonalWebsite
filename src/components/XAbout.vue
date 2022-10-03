@@ -1,10 +1,10 @@
 <template>
   <div>
     <XHeader></XHeader>
-    <div class="flex ml-[15%] mt-[5%] text-white text-xl">
+    <div class="flex ml-[15%] mt-[5%] text-white lg:text-xl">
       <div>
-        <h1 class="mb-12 text-5xl underline">A propos de moi</h1>
-        <p class="text-4xl mb-5">Bonjour 👋,</p>
+        <h1 class="mb-12 text-3xl lg:text-5xl underline">A propos de moi</h1>
+        <p class="text-2xl lg:text-4xl mb-5">Bonjour 👋,</p>
         <p>
           Je m'appelle Corentin Maëse, je suis développeur front-end junior.
         </p>
@@ -17,26 +17,16 @@
           je suis motivé à travailler
         </p>
         <p>et apprendre des autres dans ce secteur que j'aime tant.</p>
-        <h2 class="mt-12 text-3xl">Languages :</h2>
+        <h2 class="mt-12 text-xl lg:text-3xl">Languages :</h2>
         <p class="mb-12">Entre autres j'utilise et j'apprend de ces langages et frameworks quotidiennement :</p>
-        <div class="flex">
-          <div class="mr-20">
-            <ul>
-              <li class="mb-3">° HTML & CSS</li>
-              <li class="mb-3">° JavaScript</li>
-              <li>° PHP</li>
-            </ul>
-          </div>
-          <div>
-            <ul>
-              <li class="mb-3"> ° Tailwind & Bootstrap</li>
-              <li class="mb-3">° Vue.js</li>
-              <li>° Symfony</li>
-            </ul>
-          </div>
+        <div class="text-sm lg:text-xl text-red-500 text-center">
+            <p>HTML/CSS - Tailwind/Bootstrap</p>
+            <p>Javascript - Vuejs</p>
+            <p>PHP - Laravel</p>
+          
         </div>
       </div>
-      <div >
+      <div class="hidden lg:block" >
           <img src="../assets/visage.png" >
       </div>
     </div>

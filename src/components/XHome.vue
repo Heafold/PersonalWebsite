@@ -1,14 +1,14 @@
 <template>
 <div>   
     <XHeader></XHeader>
-    <div class="flex">
+    <div class="lg:flex sm:inline-block">
       <div class="flex mt-[5%] ml-[20%]">
             <div class="memoji w-40 h-40 bg-slate-700  shadow rounded-full"></div>
         </div>
         
     <div class="text-white mt-[8%] ml-[5%]">
         <div>
-            <h3 class="text-5xl">Bonjour 👋,</h3>
+            <h3 class="lg:text-5xl">Bonjour 👋,</h3>
              <h3 class="text-5xl">Je suis Corentin Maëse.</h3>
         </div>
        
@@ -26,7 +26,7 @@
         </div>
         
     </div>  
-    <div>
+    <div class="hidden lg:block">
         <img src="../assets/monitor.png" >
     </div>
     </div>
