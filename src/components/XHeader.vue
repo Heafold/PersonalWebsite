@@ -6,7 +6,7 @@
             <h2 class="text-slate-400 hover:text-slate-200 cursor-pointer hover:bg-slate-800 w-20 text-center p-1 rounded "><router-link to="/">Accueil</router-link></h2>
             <h2 class="text-slate-400 hover:text-slate-200 cursor-pointer hover:bg-slate-800 w-20 text-center p-1 rounded"><router-link to="/about">Moi</router-link></h2>
             <h2 class="text-slate-400 hover:text-slate-200 cursor-pointer hover:bg-slate-800 w-20 text-center p-1 rounded "><router-link to="/project">Projets</router-link></h2>
-            <h2 class="text-slate-400 hover:text-slate-200 cursor-pointer hover:bg-slate-800 w-20 text-center p-1 rounded">Contact</h2>
+            <a href="mailto:mcorentin62@gmail.com" class="text-slate-400 hover:text-slate-200 cursor-pointer hover:bg-slate-800 w-20 text-center p-1 rounded">Contact</a>
         </div>
     </div>
     

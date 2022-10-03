@@ -16,8 +16,8 @@
         <p class="mt-5 text-2xl">Développeur Front-End Vue.Js Junior</p>
         <p class="text-2xl">passionné par le développement Web/Web mobile.</p>
         <div class="flex animate-pulse">
-            <div class="w-24 bg-slate-600 hover:bg-slate-700 p-1 text-center rounded mt-5 cursor-pointer duration-150 ">Explorer ></div>
-            <div class="w-28 bg-red-600 hover:bg-red-700 p-1 text-center rounded mt-5 ml-5 cursor-pointer duration-150">Me contacter</div>
+            <div class="w-24 bg-slate-600 hover:bg-slate-700 p-1 text-center rounded mt-5 cursor-pointer duration-150 "><router-link to="/project">Explorer </router-link></div>
+            <div class="w-28 bg-red-600 hover:bg-red-700 p-1 text-center rounded mt-5 ml-5 cursor-pointer duration-150"><a href="mailto:mcorentin62@gmail.com">Me contacter</a></div>
            
         </div>
         <div class="flex">

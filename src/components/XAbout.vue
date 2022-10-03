@@ -1,7 +1,7 @@
 <template>
   <div>
     <XHeader></XHeader>
-    <div class="flex ml-[15%] mt-[5%] text-white lg:text-xl">
+    <div class="flex ml-[5%] lg:ml-[15%] mt-[5%] text-white lg:text-xl">
       <div>
         <h1 class="mb-12 text-3xl lg:text-5xl underline">A propos de moi</h1>
         <p class="text-2xl lg:text-4xl mb-5">Bonjour 👋,</p>
