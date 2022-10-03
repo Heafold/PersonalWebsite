@@ -3,7 +3,7 @@
     <div>
         <XHeader></XHeader>
         <div class="mt-[5%]">
-            <h1 class=" text-center text-white text-4xl underline">Mes projets</h1>
+            <h1 class=" text-center text-white text-4xl underline">Mes projets.</h1>
 
             <div class="lg:flex">
                 
