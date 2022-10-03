@@ -9,7 +9,8 @@
                 
                 <div class=" mt-12 lg:ml-[35%]">
                     <h2 class="text-white text-3xl underline text-center">NOM PROJET</h2>
-                    <p class="text-white text-xl text-center mt-5">Description du projet</p>
+                    <p class="text-white text-lg text-center mt-5 mb-5">Description du projet</p>
+                    <p class="text-red-400 underline text-center"><a href="https://github.com/Heafold" target="_blank" >GitHub</a></p>
                 </div>
 
                 <div class="bg-white w-80 h-48 mt-10 ml-[6%] lg:ml-[3%]"></div>
@@ -22,7 +23,8 @@
                 
                 <div class=" mt-12 lg:ml-[35%]">
                     <h2 class="text-white text-3xl underline text-center">NOM PROJET</h2>
-                    <p class="text-white text-xl text-center mt-5">Description du projet</p>
+                    <p class="text-white text-lg text-center mt-5 mb-5">Description du projet</p>
+                    <p class="text-red-400 underline text-center"><a href="https://github.com/Heafold" target="_blank" >GitHub</a></p>
                 </div>
 
                 <div class="bg-white w-80 h-48 mt-10 ml-[6%] lg:ml-[3%]"></div>
@@ -35,7 +37,8 @@
                 
                 <div class=" mt-12 lg:ml-[35%]">
                     <h2 class="text-white text-3xl underline text-center">NOM PROJET</h2>
-                    <p class="text-white text-xl text-center mt-5">Description du projet</p>
+                    <p class="text-white text-lg text-center mt-5 mb-5">Description du projet</p>
+                    <p class="text-red-400 underline text-center"><a href="https://github.com/Heafold" target="_blank" >GitHub</a></p>
                 </div>
 
                 <div class="bg-white w-80 h-48 mt-10 ml-[6%] lg:ml-[3%]"></div>
@@ -61,3 +64,4 @@ export default {
   
 }
 </script>
+
