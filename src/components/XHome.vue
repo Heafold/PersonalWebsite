@@ -3,7 +3,7 @@
     <XHeader></XHeader>
     <div class="lg:flex sm:inline-block">
       <div class="flex mt-[5%] ml-[20%]">
-            <div class="memoji w-40 h-40 bg-slate-700  shadow rounded-full"></div>
+            <div class="memoji w-40 h-40 bg-slate-700  rounded-full"></div>
         </div>
         
     <div class="text-white mt-[8%] ml-[5%]">
