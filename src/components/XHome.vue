@@ -13,7 +13,7 @@
         </div>
        
         
-        <p class="mt-5 text-2xl">Développeur Front-End Vue.Js Junior</p>
+        <p class="mt-5 text-2xl">Développeur Front-end</p>
         <p class="text-2xl">passionné par le développement Web/Web mobile.</p>
         <div class="flex animate-pulse">
             <div class="w-24 bg-slate-600 hover:bg-slate-700 p-1 text-center rounded mt-5 cursor-pointer duration-150 "><router-link to="/project">Explorer </router-link></div>
