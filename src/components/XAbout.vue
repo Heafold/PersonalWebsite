@@ -8,7 +8,7 @@
         <p>
           Je m'appelle Corentin Maëse et je suis passionné par le développement web.
         </p>
-        <p>Durant mon BAC et mon BTS j'ai apprendre différents langages tel que le HTML/CSS , le JS et le PHP.</p>
+        <p>Durant mon BAC et mon BTS j'ai pu apprendre différents langages tel que le HTML/CSS , le JS et le PHP.</p>
         <p>Je suis à la recherche d'une alternance me permettant de me professionnaliser dans ce milieu que j'aime tant.</p>
         <h2 class="mt-12 text-xl lg:text-3xl">Languages :</h2>
         <p class="mb-12">Entre autres j'utilise et j'apprend de ces langages et frameworks quotidiennement :</p>
